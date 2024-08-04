@@ -9,7 +9,7 @@ api with fastify, prisma, typescript and more.
 
 With this api it is possible to check in gyms in addition to the admin being able to create a gym
 
-### RFs (Requisitos funcionais)
+### RFs (Functional requirements)
 
 - [x] It must be possible to register;
 - [x] It must be possible to authenticate;
